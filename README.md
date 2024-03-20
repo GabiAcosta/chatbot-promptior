@@ -1,0 +1,1 @@
+# Prueba técnica para el rol de IA Engineer en Promptior
